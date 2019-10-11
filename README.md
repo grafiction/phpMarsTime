@@ -1,7 +1,7 @@
 phpMarsTime
 ================
 
-**Port of essential mars date and time calculations from
+Port of essential mars date and time calculations from
 https://github.com/eelsirhc/pyMarsTime
 and
 https://jtauber.github.io/mars-clock/
@@ -17,7 +17,7 @@ on Mars with applications to the Pathfinder/Surveyor missions.
 Geophys. Res. Lett. 24, 1967-1970.
 http://www.giss.nasa.gov/tools/mars24/
  
-**Special thanks to Chris Lee: https://christopherlee.co.uk/
+Special thanks to Chris Lee: https://christopherlee.co.uk/
 
 ### Features
 
