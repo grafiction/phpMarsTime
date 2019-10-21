@@ -1,0 +1,19 @@
+{
+  "name": "grafiction/mars-time-bundle",
+  "description": "Calculation of mars date and time",
+  "type": "symfony-bundle",
+  "version": "0.5.6",
+  "license": "Beerware",
+  "authors": [{"name": "Michael Scheffler", "email": "m.scheffler@grafiction.de"}],
+  "minimum-stability": "dev",
+  "require": {
+    "php": "^7.0"
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-4":  {
+      "Grafiction\\MarsTimeBundle\\": "src/"
+    }
+  }
+}
