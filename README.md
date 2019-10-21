@@ -27,3 +27,6 @@ Special thanks to Chris Lee: https://christopherlee.co.uk/
 ### Requirements
 
   * PHP 7.1 or higher
+
+### Installation
+  composer require grafiction/mars-time-bundle dev-master
